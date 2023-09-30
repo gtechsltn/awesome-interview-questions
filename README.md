@@ -1,3 +1,36 @@
+# Interview Questions and Answers
+
+## C#
+Top 50 C# Interview Questions and Answers (2023)
+https://www.guru99.com/c-sharp-interview-questions.html
+
+## JavaScript
+Top 100 JavaScript Interview Questions and Answers (2023)
+https://www.guru99.com/javascript-interview-questions-answers.html
+https://www.interviewbit.com/javascript-interview-questions/
+https://www.geeksforgeeks.org/javascript-interview-questions-and-answers/
+https://www.geeksforgeeks.org/javascript-interview-questions-and-answers-set-2/
+https://www.geeksforgeeks.org/javascript-interview-questions-and-answers-set-3/
+https://www.edureka.co/blog/interview-questions/javascript-interview-questions/
+https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-interview-questions
+
+## SQL
+Top 50 SQL Interview Questions and Answers (2023)
+https://www.guru99.com/sql-interview-questions-answers.html
+https://www.toptal.com/sql/interview-questions
+https://www.interviewbit.com/sql-query-interview-questions/
+https://www.interviewbit.com/database-testing-interview-questions/
+https://www.interviewbit.com/data-science-interview-questions/
+https://intellipaat.com/blog/interview-question/sql-interview-questions/
+Top 115 SQL Interview Questions You Must Prepare In 2023
+https://www.edureka.co/blog/interview-questions/sql-interview-questions
+
+## Most Common
+https://career.guru99.com/how-to-answer-50-most-common-interview-questions/
+
+# Remote Developer Jobs
+https://www.guru.com/blog/top-interview-questions-for-a-remote-position-applicant/
+
 <div align="center">	
 	<p>	
 		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
