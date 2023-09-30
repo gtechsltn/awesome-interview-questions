@@ -25,6 +25,12 @@ https://intellipaat.com/blog/interview-question/sql-interview-questions/
 Top 115 SQL Interview Questions You Must Prepare In 2023
 https://www.edureka.co/blog/interview-questions/sql-interview-questions
 
+## ADO.NET
+https://www.completecsharptutorial.com/ado-net/
+
+## EF6
+https://www.completecsharptutorial.com/entity-framework-6/
+
 ## Most Common
 https://career.guru99.com/how-to-answer-50-most-common-interview-questions/
 
